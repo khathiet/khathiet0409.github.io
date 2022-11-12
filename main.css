@@ -228,7 +228,7 @@ button#activate.pushed {
 }
 
 div#panel:before {
-	content: "DO YOU HANG OUT WITH ME";
+	content: "WOULD YOU LIKE TO HANG OUT WITH ME ^^";
 	top: 3vmin;
 	position: relative;
 	font-size: 8vmin;
